@@ -8,8 +8,6 @@ Sync **Gregorian** and **Chinese Lunar** birthdays from Google Sheets to Google 
 ---
 
 ## 📁 Project Structure
-
-```text
 .
 ├── src/
 |   ├── appsscript.json
