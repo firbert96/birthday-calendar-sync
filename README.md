@@ -27,6 +27,7 @@ This project is designed for people who track birthdays traditionally (Chinese l
 ```text
 .
 ├── src/
+|   ├── appsscript.json
 │   ├── Code.gs
 │   ├── utils.gs
 │   ├── calendar.gs
@@ -35,6 +36,5 @@ This project is designed for people who track birthdays traditionally (Chinese l
 ├── sheets/
 │   └── Example-Birthdays-File.xlsx
 │
-├── appsscript.json
 ├── .gitignore
 └── README.md
