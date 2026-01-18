@@ -1,0 +1,14 @@
+# clasp / Google Apps Script
+.clasp.json
+
+# OAuth tokens
+*.token.json
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
